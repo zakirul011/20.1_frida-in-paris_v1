@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Poor Richard';
+    src: url('PoorRichard-Regular.eot');
+    src: url('PoorRichard-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PoorRichard-Regular.woff2') format('woff2'),
+        url('PoorRichard-Regular.woff') format('woff'),
+        url('PoorRichard-Regular.ttf') format('truetype'),
+        url('PoorRichard-Regular.svg#PoorRichard-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
